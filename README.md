@@ -45,3 +45,7 @@ Working through [Crafting Interpreters](https://craftinginterpreters.com/) by Ny
   - compiler: Turn source code into another form that the user can run.
   - interpreter: The user runs the source code directly.
   - e.g. cPythong **is** an interpreter, but it **has** a compiler
+
+### Chapter 3
+
+- See Landin's [The next 700 programming languages](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
